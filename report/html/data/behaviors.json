@@ -1,0 +1,193 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_login_success",
+      "uid" : "147b68a50a2c9206",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608343821,
+        "stop" : 1554608343910,
+        "duration" : 89
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "校验登录失败",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_login_failed",
+        "uid" : "e93bf57c2ec9fbb0",
+        "parentUid" : "dbecf9fd58243a1b5d1e7c9517e288d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608343911,
+          "stop" : 1554608343945,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dbecf9fd58243a1b5d1e7c9517e288d2"
+    }, {
+      "name" : "校验密码错误",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_error_pwd",
+        "uid" : "ce0fb4ccdfddc379",
+        "parentUid" : "89e97f6c2b8f413bb45dcc8311e4ab36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608343947,
+          "stop" : 1554608343993,
+          "duration" : 46
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "89e97f6c2b8f413bb45dcc8311e4ab36"
+    }, {
+      "name" : "校验用户为空",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_null_user",
+        "uid" : "328bc23fdefedb10",
+        "parentUid" : "91e9a44eb7d0b9f5fd583b53db96a450",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608343995,
+          "stop" : 1554608344025,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "91e9a44eb7d0b9f5fd583b53db96a450"
+    }, {
+      "name" : "校验无用名参数",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_none_user",
+        "uid" : "88bba97de9eeec0f",
+        "parentUid" : "27dedeb46f721b0559763294f8e8e3de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608344028,
+          "stop" : 1554608344055,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27dedeb46f721b0559763294f8e8e3de"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  }, {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码成功",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\sys.test_changePwd.Test_pwd.test_changePwd_success",
+        "uid" : "dcd6a76cf61ac60c",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608344056,
+          "stop" : 1554608344104,
+          "duration" : 48
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a38462b3f4314282ccc0eb63786aa59e"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "获取用户",
+    "children" : [ {
+      "name" : "获取用户成功",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\sys.test_getUserInfo.Test_class.test_getUserInfo",
+        "uid" : "e8e3f330b74f3c0e",
+        "parentUid" : "7af2b6d37646b25092095760721c86c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608344143,
+          "stop" : 1554608344186,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7af2b6d37646b25092095760721c86c9"
+    } ],
+    "uid" : "fbfee20c3529009cd2e02b486a730005"
+  }, {
+    "name" : "注册模块",
+    "children" : [ {
+      "name" : "注册用户",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_register",
+        "uid" : "afcddcde1b1db738",
+        "parentUid" : "55e884aff375986ad22468e03068f452",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608344188,
+          "stop" : 1554608344238,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "55e884aff375986ad22468e03068f452"
+    }, {
+      "name" : "登录已注册的用户",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_login",
+        "uid" : "9d4dd6e3b7b09ab9",
+        "parentUid" : "3e62aa5a3b93836d43ea6ab9cc7547a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608344240,
+          "stop" : 1554608344285,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e62aa5a3b93836d43ea6ab9cc7547a1"
+    }, {
+      "name" : "获取用户列表",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_loadUserList",
+        "uid" : "ed78b8186681827b",
+        "parentUid" : "42070bb042f0074558d12bc234eb39a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608344287,
+          "stop" : 1554608344360,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "42070bb042f0074558d12bc234eb39a2"
+    }, {
+      "name" : "获取用户信息",
+      "children" : [ {
+        "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_loadUserInfo",
+        "uid" : "ad0a3e8204347a06",
+        "parentUid" : "a9cb30cffc8854220a7576be1d56fd8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608344363,
+          "stop" : 1554608344433,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9cb30cffc8854220a7576be1d56fd8a"
+    } ],
+    "uid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c"
+  } ]
+}

@@ -1,0 +1,63 @@
+{
+  "uid" : "147b68a50a2c9206",
+  "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_login_success",
+  "fullName" : "testcase.E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_login_success",
+  "historyId" : "d43ad1cbac0a525c5584edd616fce5b8",
+  "time" : {
+    "start" : 1554608343821,
+    "stop" : 1554608343910,
+    "duration" : 89
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QNT3HHU"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3632-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_login_success"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "147b68a50a2c9206.json",
+  "parameterValues" : [ ]
+}

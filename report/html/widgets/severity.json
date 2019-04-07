@@ -1,0 +1,111 @@
+[ {
+  "uid" : "9d4dd6e3b7b09ab9",
+  "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_login",
+  "time" : {
+    "start" : 1554608344240,
+    "stop" : 1554608344285,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e93bf57c2ec9fbb0",
+  "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_login_failed",
+  "time" : {
+    "start" : 1554608343911,
+    "stop" : 1554608343945,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce0fb4ccdfddc379",
+  "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_error_pwd",
+  "time" : {
+    "start" : 1554608343947,
+    "stop" : 1554608343993,
+    "duration" : 46
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "328bc23fdefedb10",
+  "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_null_user",
+  "time" : {
+    "start" : 1554608343995,
+    "stop" : 1554608344025,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed78b8186681827b",
+  "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_loadUserList",
+  "time" : {
+    "start" : 1554608344287,
+    "stop" : 1554608344360,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "147b68a50a2c9206",
+  "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_login_success",
+  "time" : {
+    "start" : 1554608343821,
+    "stop" : 1554608343910,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afcddcde1b1db738",
+  "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_register",
+  "time" : {
+    "start" : 1554608344188,
+    "stop" : 1554608344238,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88bba97de9eeec0f",
+  "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_none_user",
+  "time" : {
+    "start" : 1554608344028,
+    "stop" : 1554608344055,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8e3f330b74f3c0e",
+  "name" : "E:\\Apitest\\testcase\\sys.test_getUserInfo.Test_class.test_getUserInfo",
+  "time" : {
+    "start" : 1554608344143,
+    "stop" : 1554608344186,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcd6a76cf61ac60c",
+  "name" : "E:\\Apitest\\testcase\\sys.test_changePwd.Test_pwd.test_changePwd_success",
+  "time" : {
+    "start" : 1554608344056,
+    "stop" : 1554608344104,
+    "duration" : 48
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0a3e8204347a06",
+  "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_loadUserInfo",
+  "time" : {
+    "start" : 1554608344363,
+    "stop" : 1554608344433,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

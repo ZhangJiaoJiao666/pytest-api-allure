@@ -1,0 +1,159 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554621551999" stop="1554621552609">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554621551999" status="passed" stop="1554621552216">
+      <name>E:\Apitest\testcase\sys.test_alogin.Test_class.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552216" status="passed" stop="1554621552238">
+      <name>E:\Apitest\testcase\sys.test_alogin.Test_class.test_login_failed</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="校验登录失败"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552239" status="passed" stop="1554621552264">
+      <name>E:\Apitest\testcase\sys.test_alogin.Test_class.test_error_pwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="校验密码错误"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552265" status="passed" stop="1554621552290">
+      <name>E:\Apitest\testcase\sys.test_alogin.Test_class.test_null_user</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="校验用户为空"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552291" status="passed" stop="1554621552309">
+      <name>E:\Apitest\testcase\sys.test_alogin.Test_class.test_none_user</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="校验无用名参数"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552309" status="passed" stop="1554621552345">
+      <name>E:\Apitest\testcase\sys.test_changePwd.Test_pwd.test_changePwd_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="修改密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552372" status="passed" stop="1554621552395">
+      <name>E:\Apitest\testcase\sys.test_getUserInfo.Test_class.test_getUserInfo</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="获取用户"/>
+        <label name="story" value="获取用户成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552396" status="passed" stop="1554621552435">
+      <name>E:\Apitest\testcase\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_register</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="注册模块"/>
+        <label name="story" value="注册用户"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552435" status="passed" stop="1554621552480">
+      <name>E:\Apitest\testcase\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="注册模块"/>
+        <label name="story" value="登录已注册的用户"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552480" status="passed" stop="1554621552540">
+      <name>E:\Apitest\testcase\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_loadUserList</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="注册模块"/>
+        <label name="story" value="获取用户列表"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554621552541" status="passed" stop="1554621552609">
+      <name>E:\Apitest\testcase\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_loadUserInfo</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="注册模块"/>
+        <label name="story" value="获取用户信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21508-MainThread"/>
+        <label name="host" value="DESKTOP-QNT3HHU"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

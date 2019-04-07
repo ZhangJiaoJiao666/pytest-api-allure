@@ -1,0 +1,66 @@
+{
+  "uid" : "9d4dd6e3b7b09ab9",
+  "name" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_login",
+  "fullName" : "testcase.E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_login",
+  "historyId" : "12ad549c0e01563c11c6502f9b048a49",
+  "time" : {
+    "start" : 1554608344240,
+    "stop" : 1554608344285,
+    "duration" : 45
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "注册模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QNT3HHU"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "登录已注册的用户"
+  }, {
+    "name" : "thread",
+    "value" : "3632-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\Apitest\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_login"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d4dd6e3b7b09ab9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "ce0fb4ccdfddc379",
+  "name" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_error_pwd",
+  "fullName" : "testcase.E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_error_pwd",
+  "historyId" : "a4026fc688d34267495882bd7ea8053d",
+  "time" : {
+    "start" : 1554608343947,
+    "stop" : 1554608343993,
+    "duration" : 46
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QNT3HHU"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "校验密码错误"
+  }, {
+    "name" : "thread",
+    "value" : "3632-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\Apitest\\testcase\\sys.test_alogin.Test_class.test_error_pwd"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce0fb4ccdfddc379.json",
+  "parameterValues" : [ ]
+}
